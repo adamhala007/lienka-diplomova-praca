@@ -20,3 +20,7 @@ ktoré funguje na oboch platformách) ktorá s ním komunikuje.
 **Meno a priezvisko študenta:** Bc. Adam Halász
 
 **Vedúci:** RNDr. Jozef Šiška, PhD.
+
+## Odkazy
+**Webová aplikácia - Github:** [https://github.com/adamhala007/lienka.git](https://github.com/adamhala007/lienka.git)
+ 
