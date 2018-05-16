@@ -24,5 +24,5 @@ ktoré funguje na oboch platformách) ktorá s ním komunikuje.
 ## Odkazy
 **Webová aplikácia - Github:** [https://github.com/adamhala007/lienka.git](https://github.com/adamhala007/lienka.git)
 
-**Webstránka aplikácie:** [https://lienka-rkbkxwsjhc.now.sh/](https://lienka-rkbkxwsjhc.now.sh/)
+**Webstránka aplikácie:** [https://lienka-nfhducsbjx.now.sh/](https://lienka-nfhducsbjx.now.sh/)
  
