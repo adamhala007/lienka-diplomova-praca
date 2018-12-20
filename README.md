@@ -18,8 +18,8 @@ ktoré funguje na oboch platformách) ktorá s ním komunikuje.
 
 ## Progres
 - Lienka funguje ako server (dá sa na jej Wifi sieť pripojiť)
-- Po zadaní adresy 192.168.4.1 sa otvorí web stránka, ktorá beźí na ESP čipe, ktorý je v Lienke.
-- Z web stránky si vieme vybrať Wifi sieť, na ktorú sa chceme pripojiť
+- Po zadaní adresy 192.168.4.1 sa otvorí web stránka, ktorá beží na ESP čipe, ktorý je v Lienke.
+- Z web stránky si vieme zvoliť Wifi sieť, na ktorú sa chceme pripojiť
 - Po pripojení na Wifi sieť zadáme lokálnu IP adresu Lienky a otvorí sa nám webstránka, z ktorej vieme riadiť Lienku.
 
 ## Ďalšie informácie
