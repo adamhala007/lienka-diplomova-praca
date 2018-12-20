@@ -9,7 +9,7 @@
 <body>
 <div id="main">
 
-    <form method="post" action="http://192.168.0.106/led.cgi">
+    <form method="post" action="http://192.168.0.104/led.cgi">
 
         <!--<input type="submit" name="led" value="50">-->
 
@@ -18,17 +18,17 @@
         <p>Actual direction: <span id="dir"></span></p>
         <div class="row">
             <div class="col"></div>
-            <div class="col" id="left"></div>
+            <div class="col" ><input type="submit" name="led" value="4" class="inputDir" id="left"></div>
             <div class="col"></div>
         </div>
         <div class="row">
-            <div class="col" id="up"><input type="submit" name="led" value="51" id="input51"></div>
+            <div class="col" ><input type="submit" name="led" value="8" class="inputDir" id="up"></div>
             <div class="col"></div>
-            <div class="col" id="down"></div>
+            <div class="col" ><input type="submit" name="led" value="2" class="inputDir" id="down"></div>
         </div>
         <div class="row">
             <div class="col"></div>
-            <div class="col" id="right"></div>
+            <div class="col" ><input type="submit" name="led" value="6" class="inputDir" id="right"></div>
             <div class="col"></div>
         </div>
     </div>

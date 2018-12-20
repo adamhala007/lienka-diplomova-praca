@@ -36,7 +36,7 @@
 
 }
 
-#up, #input51{
+#up{
     background: url("images/up.png");
 }
 
@@ -73,10 +73,10 @@
     cursor: pointer;
 }
 
-#input51{
+.inputDir{
     width: 120px;
     height: 120px;
-    background: url("images/up.png");
+    /*background: url("images/up.png");*/
     border:0 none;
     color: transparent;
 }
