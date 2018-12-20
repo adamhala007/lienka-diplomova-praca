@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lienka</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+<div id="main">
+
+    <form method="post" action="http://192.168.0.106/led.cgi">
+
+        <!--<input type="submit" name="led" value="50">-->
+
+
+    <div id="controller">
+        <p>Actual direction: <span id="dir"></span></p>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col" id="left"></div>
+            <div class="col"></div>
+        </div>
+        <div class="row">
+            <div class="col" id="up"><input type="submit" name="led" value="51" id="input51"></div>
+            <div class="col"></div>
+            <div class="col" id="down"></div>
+        </div>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col" id="right"></div>
+            <div class="col"></div>
+        </div>
+    </div>
+
+    </form>
+
+    <div id="wifiSettings">
+        <p id="test"></p>
+        <form>
+            <div id="availableNetworks">
+
+            </div>
+
+            <input type="password" >
+            <input type="submit" >
+
+        </form>
+
+    </div>
+</div>
+</body>
+<script src="script.js"></script>
+</html>

@@ -1,0 +1,82 @@
+#main{
+    height: 800px;
+    margin: 0;
+}
+
+#controller{
+    background-color: transparent;
+    width: auto;
+    overflow: auto;
+    padding: 10px 50px 50px;
+}
+
+#controller p{
+    font-size: x-large;
+}
+
+#dir{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#wifiSettings{
+    width: auto;
+    overflow: auto;
+    background-color: green;
+}
+
+.row{
+    position: relative;
+    float: left;
+}
+
+.row .col, #input51{
+    width: 120px;
+    height: 120px;
+
+}
+
+#up, #input51{
+    background: url("images/up.png");
+}
+
+
+
+#down{
+    background: url("images/down.png");
+}
+
+
+
+#left{
+    background: url("images/left.png");
+}
+
+
+
+#right{
+    background: url("images/right.png");
+}
+
+#up:hover{
+    cursor: pointer;
+}
+
+#down:hover{
+    cursor: pointer;
+}
+
+#left:hover{
+    cursor: pointer;
+}
+#right:hover{
+    cursor: pointer;
+}
+
+#input51{
+    width: 120px;
+    height: 120px;
+    background: url("images/up.png");
+    border:0 none;
+    color: transparent;
+}
