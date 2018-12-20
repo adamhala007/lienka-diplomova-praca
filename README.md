@@ -22,6 +22,9 @@ ktoré funguje na oboch platformách) ktorá s ním komunikuje.
 - Z web stránky si vieme zvoliť Wifi sieť, na ktorú sa chceme pripojiť
 - Po pripojení na Wifi sieť zadáme lokálnu IP adresu Lienky a otvorí sa nám webstránka, z ktorej vieme riadiť Lienku.
 
+## Ukážka
+[https://drive.google.com/open?id=1ILGaQnNAZSHLVVpwDm-qNBMCyPL9AwFk](https://drive.google.com/open?id=1ILGaQnNAZSHLVVpwDm-qNBMCyPL9AwFk)
+
 ## Ďalšie informácie
 **Meno a priezvisko študenta:** Bc. Adam Halász
 
