@@ -16,7 +16,7 @@ Implementovať (jazyk C) komunikáciu cez wifi (vrátane konfigurácie a pod.)
 a následne desktopovú alebo mobilnú aplikáciu (preferované webapp riešenie,
 ktoré funguje na oboch platformách) ktorá s ním komunikuje.
 
-##Progres
+## Progres
 - Lienka funguje ako server (dá sa na jej Wifi sieť pripojiť)
 - Po zadaní adresy 192.168.4.1 sa otvorí web stránka, ktorá beźí na ESP čipe, ktorý je v Lienke.
 - Z web stránky si vieme vybrať Wifi sieť, na ktorú sa chceme pripojiť
