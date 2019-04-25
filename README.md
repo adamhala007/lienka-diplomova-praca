@@ -33,5 +33,7 @@ ktoré funguje na oboch platformách) ktorá s ním komunikuje.
 ## Odkazy
 **Webová aplikácia - Github:** [https://github.com/adamhala007/lienka.git](https://github.com/adamhala007/lienka.git)
 
-**Webstránka aplikácie:** [https://lienka-iijzubasag.now.sh/](https://lienka-iijzubasag.now.sh/)
+**Webstránka aplikácie:** [http://lienka.herokuapp.com/](http://lienka.herokuapp.com/)
+
+[https://lienka-iijzubasag.now.sh/](https://lienka-iijzubasag.now.sh/) - stará verzia
  
